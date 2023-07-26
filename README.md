@@ -1,4 +1,4 @@
-# HookApp
+# Boilerplate
 
 ## Boilerplate README
 
