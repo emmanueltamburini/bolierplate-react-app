@@ -2,7 +2,7 @@
 
 ## Boilerplate README
 
-This application is boilerplate to start any react app with test configuration added. 
+This application is boilerplate to start any react app with test configuration added.
 
 ### Getting started
 
